@@ -5,7 +5,6 @@
 <p align="center">Turning imagination into reality 🚀</p>
 <br>
  <p  align="center"><img src="https://github.com/codecShivam/codecShivam/blob/main/May-the-Open-Source-be-with-you-768x391.jpg" /> </p><br>
-
 <p align="center">
 <a href="https://twitter.com/adityaslyf" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://linkedin.com/in/adityaslyf" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
