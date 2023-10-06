@@ -20,7 +20,6 @@
 <p align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=adityaslyf" alt="visitor badge"/></p>
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
-
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adityaslyf&show_icons=true&theme=chartreuse-dark" /> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaslyf&theme=chartreuse-dark" />
