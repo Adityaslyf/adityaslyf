@@ -16,7 +16,6 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
 <p align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=adityaslyf" alt="visitor badge"/></p>
-
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adityaslyf&show_icons=true&theme=chartreuse-dark" /> 
