@@ -2,7 +2,6 @@
 <h1 align="center">I'm Aditya Varshney 👨‍🎤</h1>
 <p align="center">I love creating new things ⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
-
 <br>
  <p  align="center"><img src="https://github.com/codecShivam/codecShivam/blob/main/May-the-Open-Source-be-with-you-768x391.jpg" /> </p><br>
 <p align="center">
